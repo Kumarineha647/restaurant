@@ -1,0 +1,142 @@
+body{
+	font-size: 15px;
+	background-color:#eee;
+}
+
+p{
+	color:grey;
+	font-size:15px;
+	font-family: 'Dancing Script', cursive;
+	text-align:center;
+}
+
+
+.f1{
+	font-family: 'Lobster', cursive;
+	font-size:32px;
+	color:black;	
+}
+.navbar{
+	margin-bottom: 0px;
+}
+
+.nav1{
+	padding:30px 150px;;
+	background-color:#bfd8d5;	
+}
+
+.navbar-inverse {
+	border-color:white;
+}
+
+.navbar-brand{
+	margin-right:20px;	
+}
+.navbar-inverse .navbar-nav > li > a {
+    color:black;
+}
+.fa{
+	font-size:20px;
+}
+h1{
+	font-family: 'PT Serif', serif;
+	text-align:center;
+}
+h2{
+	font-family: 'PT Serif', serif;
+	text-align:center;
+	
+}
+h3{
+	font-family: 'PT Serif', serif;
+	text-align:center;
+	
+}
+h4{
+	font-family: 'PT Serif', serif;
+	text-align:center;
+	color:black;
+	
+}
+
+
+
+#container{
+	background-image:url(images/16.jpg);
+	padding:2%;
+	min-height:600px;
+	
+}
+.serviceimage{
+	width:31.33%;
+	margin:1%;
+	padding:1%;
+	min-height:500px;
+	background:white;
+	float:left;
+	color:black;
+	text-align:center;
+}
+
+.serviceimage img{
+	
+	height:45%;
+	width:100%;
+	border-radius:10px 10px 0px 0px;
+	padding-bottom:5px;
+}
+.btn1{
+	color:black;
+	text-align:center;
+	
+}
+
+
+.clearblock{
+	clear:both;
+}
+
+#container1{
+	background-image:url(images/20.jpg);
+	padding:2%;
+	height:610px;
+}
+.serviceimage1{
+	width:40.33%;
+	margin:2% 25% 2% 27% ;
+	padding:5%;
+	min-height:450px;
+	background:white;
+	float:center;
+	color:black;
+	text-align:center;
+}
+.block li{
+	display:inline;
+	padding:10px;
+	
+	
+}
+
+.block li a{
+	color:black;
+}
+
+.p1{
+	color:black;
+	
+}
+.c1{
+	background-color:black;
+	color:white;
+	margin-right:15px;
+}
+
+hr{
+	border-top: 1px solid black;
+	
+}
+.form1{
+	text-align:center;
+}
+
